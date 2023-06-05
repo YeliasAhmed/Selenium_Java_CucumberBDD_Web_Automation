@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 @Test
 @CucumberOptions(features="src/test/java/features",glue ="stepDefinitions",monochrome=true,
-        tags ="@Credentialing",
+        tags ="@Release",
         plugin= {"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}
 // "html:target/cucumber.html", "json:target/cucumber.json",
 //"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",

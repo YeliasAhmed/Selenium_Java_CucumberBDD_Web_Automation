@@ -1,30 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcf6846a-7c2f-40bb-8060-ccb3751fa6e3" name="Changes" comment="" />
+    <list default="true" id="fcf6846a-7c2f-40bb-8060-ccb3751fa6e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XML/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/DocsAndSeriesPage/DocsAndSeriesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/DocsAndSeriesPage/DocsAndSeriesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PageObjectManager/PageObjectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PageObjectManager/PageObjectManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/DocsAndSeries/DocsAndSeriesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/DocsAndSeries/DocsAndSeriesSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/FailedTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/FailedTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/TestNG2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/TestNG2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/TestNGTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/TestNGTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/TestContextSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/TestContextSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/global.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Q5yZu0jjn943TanSB9r5jquvju" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Yelias Ahmed/Desktop/Test_Automation_Tvo_Today",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yelias Ahmed\Desktop\Test_Automation_Tvo_Today" />
+      <recent name="C:\Users\Yelias Ahmed\Desktop\Test_Automation_Tvo_Today\src\test\resources" />
+      <recent name="C:\Users\Yelias Ahmed\Desktop\Test_Automation_Tvo_Today\src\test\java\utils" />
+      <recent name="C:\Users\Yelias Ahmed\Desktop\Test_Automation_Tvo_Today\src\test\java\testRunner" />
+      <recent name="C:\Users\Yelias Ahmed\Desktop\Test_Automation_Tvo_Today\src\test\java\Features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepDefinitions" />
+      <recent name="stepDefinitions.DocsAndSeries" />
+      <recent name="stepDefinitions.Login.DocsAndSeries" />
+      <recent name="" />
+      <recent name="pages.DocsAndSeries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Yelias Ahmed/Desktop/Test_Automation_Tvo_Today/XML/TestNG.xml">
+    <configuration name="Scenario: Verify that the &quot;Docs &amp; Series&quot; cross button is working properly" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Test_Automation_Tvo_Today" />
+      <option name="NAME_FILTER" value="^Verify that the \&quot;Docs \&amp; Series\&quot; cross button is working properly$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the \&quot;Docs \&amp; Series\&quot; cross button is working properly$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the &quot;Docs &amp; Series&quot; cross button is working properly" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that the &quot;Load More&quot; button is working properly" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Test_Automation_Tvo_Today" />
+      <option name="NAME_FILTER" value="^Verify that the \&quot;Load More\&quot; button is working properly$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the \&quot;Load More\&quot; button is working properly$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the &quot;Load More&quot; button is working properly" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that the &quot;Next &amp; Prev&quot; button is working properly under Docs &amp; Series" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Test_Automation_Tvo_Today" />
+      <option name="NAME_FILTER" value="^Verify that the \&quot;Next \&amp; Prev\&quot; button is working properly under Docs \&amp; Series$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the \&quot;Next \&amp; Prev\&quot; button is working properly under Docs \&amp; Series$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the &quot;Next &amp; Prev&quot; button is working properly under Docs &amp; Series" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that the specific button is selected after clicking on it" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DocsAndSeries/DocsAndSeries.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Test_Automation_Tvo_Today" />
+      <option name="NAME_FILTER" value="^Verify that the specific button is selected after clicking on it$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the specific button is selected after clicking on it$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the specific button is selected after clicking on it" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Yelias Ahmed/Desktop/Test_Automation_Tvo_Today/XML/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Automation_Tvo_Today" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Docs &amp; Series&quot; cross button is working properly" />
+      <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Load More&quot; button is working properly" />
+      <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Next &amp; Prev&quot; button is working properly under Docs &amp; Series" />
+      <item itemvalue="Cucumber Java.Scenario: Verify that the specific button is selected after clicking on it" />
+      <item itemvalue="TestNG.C:/Users/Yelias Ahmed/Desktop/Test_Automation_Tvo_Today/XML/TestNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Yelias Ahmed/Desktop/Test_Automation_Tvo_Today/XML/TestNG.xml" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Docs &amp; Series&quot; cross button is working properly" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Load More&quot; button is working properly" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the specific button is selected after clicking on it" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the &quot;Next &amp; Prev&quot; button is working properly under Docs &amp; Series" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +189,19 @@
       <updated>1684657803813</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

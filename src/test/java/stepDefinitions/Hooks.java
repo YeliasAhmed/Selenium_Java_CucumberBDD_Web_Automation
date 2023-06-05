@@ -15,7 +15,7 @@ public class Hooks {
 	}
 	@After
 	public void AfterScenario() throws IOException, InterruptedException {
-//		testContextSetup.testBase.WebDriverManager().quit();
+		testContextSetup.testBase.WebDriverManager().quit();
 	}
 //
 //	@AfterStep

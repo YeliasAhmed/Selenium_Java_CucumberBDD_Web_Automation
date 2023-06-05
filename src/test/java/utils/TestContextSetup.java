@@ -1,18 +1,18 @@
 package utils;
 
-import java.io.IOException;
-
 import org.openqa.selenium.WebDriver;
+import pages.PageObjectManager.PageObjectManager;
 
-import pages.PageObjectManager;
+
+import java.io.IOException;
 
 public class TestContextSetup {
 
 	public WebDriver driver;
-	public String landingPageProductName;
+
 	public PageObjectManager pageObjectManager;
 	public TestBase testBase;
-//	public GenericUtils genericUtils;
+
 
 	
 	public TestContextSetup() throws IOException, InterruptedException {
